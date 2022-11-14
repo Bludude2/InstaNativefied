@@ -8,7 +8,3 @@ This project will remain Private as there might be other repositories with the s
 
 
 Fully Open Source, Anyone can update!
-
-
-DOWNLOAD:https://drive.google.com/file/d/1TTfiLHwdW6AhN65KpBWhFwaTS3q48x4K/view?usp=sharing
-*due to the github filesize limit being 29mb, i had to upload it through Gdrive*
